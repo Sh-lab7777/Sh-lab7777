@@ -53,19 +53,35 @@ applications and Generative AI systems. Specialized in **React, Electron, and Py
 development**, with deep hands-on LLM integration experience across **OpenAI GPT-4, Claude,
 LLaMA-3/4, and Gemma**. Delivered real-world enterprise products including a natural-language
 ERP desktop app, multilingual OCR pipelines, and AI-powered document automation tools actively
-used by operations teams — backed by a strong **AWS cloud** and end-to-end product delivery
+used by operations teams  backed by a strong **AWS cloud** and end-to-end product delivery
 background.
 
 **🎯 Open To:** AI/ML Engineering roles · Full Stack opportunities · Open source collaboration · Freelance builds
 
 <br/>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh-lab7777&repo=arthaai&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh-lab7777&repo=AI-Smart-OCR&theme=tokyonight&hide_border=true" width="48%"/>
+**💰 [ArthaAI](https://github.com/Sh-lab7777/arthaai)**
+Natural-language ERP interface for Tally Prime
 
-</div>
+![Stars](https://img.shields.io/github/stars/Sh-lab7777/arthaai?style=flat-square&color=9B7EDE&labelColor=1e1e2e)
+![Language](https://img.shields.io/github/languages/top/Sh-lab7777/arthaai?style=flat-square&color=8465C4&labelColor=1e1e2e)
+
+</td>
+<td width="50%" valign="top">
+
+**🔍 [AI Smart OCR](https://github.com/Sh-lab7777/AI-Smart-OCR)**
+Multilingual document digitizer
+
+![Stars](https://img.shields.io/github/stars/Sh-lab7777/AI-Smart-OCR?style=flat-square&color=9B7EDE&labelColor=1e1e2e)
+![Language](https://img.shields.io/github/languages/top/Sh-lab7777/AI-Smart-OCR?style=flat-square&color=8465C4&labelColor=1e1e2e)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
