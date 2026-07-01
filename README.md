@@ -1,38 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFE8D6,50:FFCFAF,100:FFB4A2&height=220&section=header&text=Sharan%20Shriney&fontSize=48&fontColor=5C3D5C&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Focus%20%7C%20LLM%20and%20RAG&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8D9F5,50:D4BFEA,100:B39DDB&height=220&section=header&text=Sharan%20Shriney&fontSize=48&fontColor=3D2C4D&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Focus%20%7C%20LLM%20and%20RAG&descAlignY=52&descSize=18" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="180"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF8C69&center=true&vCenter=true&width=650&lines=Building+with+AI+and+GenAI+%F0%9F%A4%96;Python+%7C+LLMs+%7C+Agentic+Systems;Turning+Ideas+Into+Working+Products;Code.+Learn.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=9B7EDE&center=true&vCenter=true&width=650&lines=Building+with+AI+and+GenAI+%F0%9F%A4%96;Python+%7C+LLMs+%7C+Agentic+Systems;Turning+Ideas+Into+Working+Products;Code.+Learn.+Repeat." alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Location](https://img.shields.io/badge/Location-Dindigul%2C%20Tamil%20Nadu-FF8C69?style=flat-square&logo=googlemaps&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-AI%20%2F%20GenAI-FFA36C?style=flat-square&logo=openai&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Building%20in%20Public-8FBFA0?style=flat-square&logo=github&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Location-Dindigul%2C%20Tamil%20Nadu-B39DDB?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%2F%20GenAI-9B7EDE?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Building%20in%20Public-A78BCB?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
-<br/>
+<p>
+<a href="https://github.com/Sh-lab7777/portfolio"><img src="https://img.shields.io/badge/Portfolio-C3AEE0-white?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sharan-shriney/"><img src="https://img.shields.io/badge/LinkedIn-9B7EDE?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shrinejehovah@gmail.com"><img src="https://img.shields.io/badge/Email-8465C4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Sh-lab7777"><img src="https://img.shields.io/badge/GitHub-3D2C4D?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<a href="https://github.com/Sh-lab7777/portfolio"><img src="https://img.shields.io/badge/Portfolio-FFB48F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sharan-shriney/"><img src="https://img.shields.io/badge/LinkedIn-6BCB99?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shrinejehovah@gmail.com"><img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Sh-lab7777"><img src="https://img.shields.io/badge/GitHub-4A314D?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sh-lab7777&color=FF8C69&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Sh-lab7777?style=flat-square&color=FF8C69&labelColor=1e1e2e)
-![Stars](https://img.shields.io/github/stars/Sh-lab7777?style=flat-square&color=FF8C69&labelColor=1e1e2e)
+<p>
+<img src="https://komarev.com/ghpvc/?username=Sh-lab7777&color=9B7EDE&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/Sh-lab7777?style=flat-square&color=9B7EDE&labelColor=1e1e2e"/>
+<img src="https://img.shields.io/github/stars/Sh-lab7777?style=flat-square&color=9B7EDE&labelColor=1e1e2e"/>
+</p>
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 🪐 About Me
@@ -54,19 +54,15 @@ background.
 
 **🎯 Open To:** AI/ML Engineering roles · Full Stack opportunities · Open source collaboration · Freelance builds
 
-<br/>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh-lab7777&repo=arthaai&theme=kacho_ga&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh-lab7777&repo=AI-Smart-OCR&theme=kacho_ga&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh-lab7777&repo=arthaai&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=D4BFEA&icon_color=B39DDB" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sh-lab7777&repo=AI-Smart-OCR&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=D4BFEA&icon_color=B39DDB" width="48%"/>
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 🧬 Tech Stack
@@ -91,21 +87,21 @@ background.
 
 **Generative AI & RAG**
 
-![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4-FFB48F?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-6BCB99?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FF6F61?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-4A314D?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-FF8C69?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFB48F?style=flat-square&logo=huggingface&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-6BCB99?style=flat-square&logo=amazonaws&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-8FBFA0?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/OpenAI%20GPT--4-C3AEE0?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-9B7EDE?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-8465C4?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-6C4A9C?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-B39DDB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-C3AEE0?style=flat-square&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon%20Bedrock-9B7EDE?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-A78BCB?style=flat-square"/>
+</p>
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 🧠 AI / ML Expertise
@@ -123,10 +119,8 @@ background.
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 🚀 Featured Projects
@@ -257,10 +251,8 @@ Built a cloud data auditing mechanism using Provable Data Possession (PDP) to ve
 
 </details>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 💼 Experience
@@ -292,10 +284,8 @@ Full stack engineer building both product infrastructure and applied GenAI syste
 
 </details>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 🏆 Achievements
@@ -312,27 +302,25 @@ Full stack engineer building both product infrastructure and applied GenAI syste
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 📜 Certifications
 
 <div align="center">
 
-![Anthropic](https://img.shields.io/badge/Building%20with%20the%20Claude%20API-Anthropic%20★-FFB48F?style=for-the-badge&logo=anthropic&logoColor=white)
-![Udemy](https://img.shields.io/badge/Complete%20Python%20Pro%20Bootcamp%202022-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-![HackerRank](https://img.shields.io/badge/Problem%20Solving%20Certification-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Coursera](https://img.shields.io/badge/Google%20UI%2FUX%20Design%202023-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Building%20with%20the%20Claude%20API-Anthropic%20★-C3AEE0?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Complete%20Python%20Pro%20Bootcamp%202022-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem%20Solving%20Certification-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20UI%2FUX%20Design%202023-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+</p>
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 🎓 Education
@@ -346,55 +334,49 @@ Full stack engineer building both product infrastructure and applied GenAI syste
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sh-lab7777&show_icons=true&theme=kacho_ga&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-lab7777&theme=celadin&hide_border=true&ring=FF8C69&fire=FF8C69" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-lab7777&layout=compact&theme=kacho_ga&hide_border=true" width="48%"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Sh-lab7777&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=D4BFEA&icon_color=B39DDB" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh-lab7777&theme=radical&hide_border=true&background=1a1a2e&ring=B39DDB&fire=B39DDB&currStreakLabel=D4BFEA" width="48%"/>
 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh-lab7777&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=D4BFEA" width="48%"/>
+
+</div>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sh-lab7777&theme=juicyfresh&no-frame=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Sh-lab7777&theme=radical&no-frame=true&margin-w=8&column=7" />
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh-lab7777&hide_border=true&bg_color=FFF5EB&color=FF6F61&line=FF8C69&point=6BCB99&area_color=FFD6BA&title_color=5C3D5C" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh-lab7777&hide_border=true&bg_color=1a1a2e&color=D4BFEA&line=B39DDB&point=9B7EDE&area_color=6C4A9C&title_color=D4BFEA" width="100%"/>
 
 </div>
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 🐍 Contribution Snake
@@ -407,10 +389,8 @@ Full stack engineer building both product infrastructure and applied GenAI syste
 
 > _To activate: add a GitHub Actions workflow using [Platane/snk](https://github.com/Platane/snk) in a repo named `Sh-lab7777/Sh-lab7777`._
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 🔭 Current Focus
@@ -436,10 +416,8 @@ Open To:
   - Freelance builds
 ```
 
-<br/>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C69,100:FFB4A2&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B39DDB,100:E8D9F5&height=3&width=1000" width="100%"/>
 </div>
 
 ## 📫 Connect
@@ -449,24 +427,24 @@ Open To:
 <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="150"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=FF6F61&center=true&vCenter=true&width=550&lines=Let's+Build+Something+Amazing+%F0%9F%9A%80;Open+to+Interesting+Conversations+%F0%9F%92%AC;Let's+Connect!" alt="Connect Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=9B7EDE&center=true&vCenter=true&width=550&lines=Let's+Build+Something+Amazing+%F0%9F%9A%80;Open+to+Interesting+Conversations+%F0%9F%92%AC;Let's+Connect!" alt="Connect Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<a href="mailto:shrinejehovah@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB48F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sharan-shriney/"><img src="https://img.shields.io/badge/LinkedIn-6BCB99?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Sh-lab7777"><img src="https://img.shields.io/badge/GitHub-4A314D?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/Sh-lab7777/portfolio"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<p>
+<a href="mailto:shrinejehovah@gmail.com"><img src="https://img.shields.io/badge/Gmail-C3AEE0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sharan-shriney/"><img src="https://img.shields.io/badge/LinkedIn-9B7EDE?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Sh-lab7777"><img src="https://img.shields.io/badge/GitHub-3D2C4D?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Sh-lab7777/portfolio"><img src="https://img.shields.io/badge/Portfolio-8465C4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 </div>
-
-<br/>
 
 <div align="center">
 
 _"Code. Learn. Repeat."_
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB4A2,50:FFCFAF,100:FFE8D6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,50:D4BFEA,100:E8D9F5&height=120&section=footer" width="100%"/>
 
 </div>
