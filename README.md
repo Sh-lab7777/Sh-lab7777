@@ -81,6 +81,20 @@ Multilingual document digitizer
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**📏 [LLM Evaluation Harness](https://github.com/Sh-lab7777/llm-eval-harness)**
+Benchmark models and prompts on Tamil/English generation
+
+![Stars](https://img.shields.io/github/stars/Sh-lab7777/llm-eval-harness?style=flat-square&color=9B7EDE&labelColor=1e1e2e)
+![Language](https://img.shields.io/github/languages/top/Sh-lab7777/llm-eval-harness?style=flat-square&color=8465C4&labelColor=1e1e2e)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -148,6 +162,7 @@ Multilingual document digitizer
 | **RAG & Vector Retrieval** | ⭐⭐⭐⭐⭐ | LangChain + FAISS + Amazon Bedrock Knowledge Base pipelines across thousands of docs |
 | **MCP (Model Context Protocol)** | ⭐⭐⭐⭐⭐ | Built 32 custom MCP tools for a natural-language ERP interface (Tally Prime) |
 | **LLM Orchestration & Observability** | ⭐⭐⭐⭐ | Multi-step workflows via LangGraph, traced & monitored with LangSmith |
+| **LLM Evaluation & Benchmarking** | ⭐⭐⭐⭐ | LLM-as-judge scoring, deterministic output checks, latency benchmarking, prompt regression testing |
 | **OCR & Document Intelligence** | ⭐⭐⭐⭐⭐ | Multilingual OCR (22 Indian languages) via Sarvam AI, Gemini Vision, Claude Vision |
 | **Cloud & Serverless (AWS)** | ⭐⭐⭐⭐ | EC2, S3, RDS, Lambda, CloudWatch, ALB, Auto Scaling for production AI systems |
 
@@ -196,6 +211,25 @@ Windows desktop app converting scanned book images, PDFs, and ZIP archives into 
 | **Repository** | [Sh-lab7777/AI-Smart-OCR](https://github.com/Sh-lab7777/AI-Smart-OCR) |
 
 Integrated Sarvam AI for 22 Indian languages and built automatic font routing to correctly detect and render Tamil custom fonts during digitization.
+
+</details>
+
+<details>
+<summary><b>📏 LLM Evaluation Harness — Benchmarking Models & Prompts</b></summary>
+<br/>
+
+Python harness that runs the same Tamil/English test set through multiple LLMs and compares them on quality, latency and cost, so model and prompt choices are made with data. Built around a real task from my day job (bilingual book back-cover descriptions).
+
+| | |
+|---|---|
+| **Stack** | Python, Groq API (gpt-oss, Qwen), pytest |
+| **Scale** | 20-case test set (10 Tamil, 10 English), multiple models, versioned prompts |
+| **Evaluation** | Deterministic checks (language, length, no markdown, no invented names) + LLM-as-judge scoring (faithfulness, fluency, appeal on a 1–5 rubric) |
+| **Regression gate** | `compare` step exits with code 1 when a check regresses or a judge score drops by 1+ point, so a prompt change can be gated |
+| **Testing** | Unit tests for the checks and a `--mock` mode that dry-runs the whole pipeline without API calls |
+| **Repository** | [Sh-lab7777/llm-eval-harness](https://github.com/Sh-lab7777/llm-eval-harness) |
+
+Every run is saved with outputs, latency and token counts, so two prompt versions or two models can be compared side by side on the same cases.
 
 </details>
 
@@ -460,6 +494,7 @@ Learning:
 Building:
   - Production RAG pipelines on Amazon Bedrock Knowledge Base + FAISS
   - MCP-powered natural language interfaces for enterprise systems
+  - LLM evaluation pipelines: judge scoring, prompt versioning, regression gates
 Exploring:
   - Retrieval-augmented generation at scale
   - Serverless AI workflows on AWS Lambda
